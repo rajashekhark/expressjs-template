@@ -1,4 +1,4 @@
 expressjs-template
 ==================
 
-ExpressJS template with unit testing and packaging
+ExpressJS template with unit testing and coverage reports
